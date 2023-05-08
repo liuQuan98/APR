@@ -6,7 +6,7 @@ Link to the arxiv version: [https://arxiv.org/abs/2305.02893](https://arxiv.org/
 
 ## News
 
-20230506 - Source code is released.
+20230508 - Source code and pretrained weights are released.
 
 ## Aggregated Point Cloud Reconstruction (APR)
 
