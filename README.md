@@ -7,6 +7,7 @@ Link to the arxiv version: [https://arxiv.org/abs/2305.02893](https://arxiv.org/
 ## News
 
 20230508 - Source code and pretrained weights are released.
+20230420 - Our paper has been accepted by IJCAI'23!
 
 ## Aggregated Point Cloud Reconstruction (APR)
 
