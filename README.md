@@ -23,7 +23,7 @@ This is a typical Aggregated Point Cloud (in blue) versus the corresponding key 
 
 This repository is a combination of two separate implementation of APR, one upon FCGF and another upon Predator. **During the execution of both methods, please treat `./FCGF_APR` or `./Predator_APR` as the working directory.**
 
-**For method-specific installation, please refer to the README.md files in the child directories, including [FCGF_APR](FCGF_APR\README.md) and [Predator_APR](Predator_APR\README.md).**
+**For method-specific installation, please refer to the README.md files in the child directories, including [FCGF_APR](./FCGF_APR/README.md) and [Predator_APR](./Predator_APR/README.md).**
 
 ## Requirements
 
