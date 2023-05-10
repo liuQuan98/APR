@@ -82,4 +82,4 @@ The baseline method FCGF can be tested similarly:
 
 ## Pre-trained models
 
-We provide our [model](https://drive.google.com/file/d/1mLqiahQMgYMRyB4XKhp-HJdy5yavL2fj/view?usp=sharing) pretrained on both raw FCGF and FCGF+APR, with point cloud distance. Extract the file into the 'outputs' directory and constitute './outputs/some_model' into the 'OUT_DIR' section in the test scripts to reproduce the results showed in our paper.
+We provide our [model](https://drive.google.com/file/d/1mLqiahQMgYMRyB4XKhp-HJdy5yavL2fj/view?usp=sharing) pretrained on FCGF+APR, with different point cloud distance. Extract the file into the 'outputs' directory and constitute './outputs/some_model' into the 'OUT_DIR' section in the test scripts to reproduce the results showed in our paper.
