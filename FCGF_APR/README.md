@@ -50,7 +50,7 @@ Notes:
 1. Remember to set `--use_old_pose` to true when using the nuScenes dataset.
 2. The symmetric APR setup can be enabled by setting `--symmetric` to True.
 
-To train FCGF-APR on either dataset, run either of the following command inside conda environment `fcgf-apr`:
+To train FCGF-APR on either dataset, run either of the following command inside conda environment `apr`:
 
 ```
 ./scripts/train_apr_kitti.sh
