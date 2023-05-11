@@ -17,7 +17,7 @@ This repository is an implementation of APR using FCGF as the feature extractor.
 First, use FCGF_APR as the working directory:
 
 ```
-cd ./FCGF_APR```
+cd ./FCGF_APR
 conda activate apr
 ```
 
