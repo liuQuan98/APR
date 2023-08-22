@@ -6,6 +6,8 @@ Link to the arxiv version: [https://arxiv.org/abs/2305.02893](https://arxiv.org/
 
 ## News
 
+20230720 - Our new advancement, GCL (ICCV 2023), achieved up to 40% RR increase on KITTI long range scenarios! Be sure to also [check it out](https://www.github.com/liuQuan98/GCL)!
+
 20230508 - Source code and pretrained weights are released.
 
 20230420 - Our paper has been accepted by IJCAI'23!
